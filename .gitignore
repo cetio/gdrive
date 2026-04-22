@@ -14,3 +14,4 @@ gdrive-test-*
 *.o
 *.obj
 *.lst
+libgdrive*
